@@ -4,7 +4,7 @@ This repository is dedicated to analyzing survey data from Stack Overflow. By le
 # Tech Workforce Insights: Careers, Trends, and Inclusion
 
 ## Project Overview
-This project analyzes survey data from [tech professionals]([url](https://medium.com/@brianrathabe/tech-workforce-insights-salaries-trends-and-inclusion-594ca787ccb3)) worldwide to uncover insights into:
+This project analyzes survey data from [tech professionals][(https://medium.com/@brianrathabe/tech-workforce-insights-salaries-trends-and-inclusion-594ca787ccb3)] worldwide to uncover insights into:
 1. Factors contributing to higher salaries in tech.
 2. Regional trends in tech roles and demand.
 3. Diversity and inclusion patterns in job satisfaction and career progression.
